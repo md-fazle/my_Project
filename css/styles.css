@@ -1,0 +1,47 @@
+body{
+   background-color: coral;
+    
+}
+h1{
+    color:rebeccapurple;
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+h2{
+    color:lightslategray;
+}
+ul,li{
+    color: blue;
+}
+
+address{
+    text-align-last: center;
+}
+#mm{
+    text-align:center;
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
+#nn{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+#gg{
+    text-align: right;
+    font-size:15px;
+    color: black;
+}
+#pp{
+    text-align: right;
+}
+h3{
+    text-align: center;
+    color: darkblue;
+
+}
+#oo{
+    text-align: center;
+}
